@@ -1,0 +1,14 @@
+*{box-sizing: border-box;width:100%;border:50px;padding:50px;}
+.box1{background-color:aqua;
+    width: 100px;
+    height: 100px;
+    border: 10px solid green;
+    margin: 10px;
+    padding: 10px;}
+
+.box2{background-color:crimson;
+    width: 100px;
+    height: 100px;
+    border: 10px dotted black;
+    margin: 10px;
+    padding: 10px;}
